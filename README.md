@@ -1,6 +1,6 @@
-###################
+*******************
 What is Wedding Organizer
-###################
+*******************
 
 Inventory System is open source to meet the needs of the Wedding system.
 
